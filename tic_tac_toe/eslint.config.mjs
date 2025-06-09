@@ -4,6 +4,15 @@ import globals from 'globals';
 import tseslint from 'typescript-eslint';
 
 export default [
+  // ESLint v9+ ignore patterns for generated/compiled files
+  {
+    ignores: [
+      '.astro/content.d.ts',
+      'dist/**',
+      '.astro/types.d.ts',
+    ],
+  },
+
   js.configs.recommended,
 
   // TypeScript support

@@ -2,20 +2,28 @@
 > astro@0.0.1 dev
 > astro dev --host 0.0.0.0 --port 3000
 
-21:07:48 [types] Generated 1ms
-21:07:48 [content] Syncing content
-21:07:48 [content] Synced content
+21:08:49 [types] Generated 1ms
+21:08:49 [content] Syncing content
+21:08:49 [content] Synced content
+21:08:49 [vite] Re-optimizing dependencies because vite config has changed
 
- astro  v5.4.2 ready in 226 ms
+ astro  v5.4.2 ready in 260 ms
 
 ┃ Local    http://localhost:3000/
 ┃ Network  http://172.17.0.2:3000/
 
-21:07:48 watching for file changes...
-21:08:24 Configuration file updated. Restarting...
-21:08:24 [vite] Re-optimizing dependencies because lockfile has changed
-21:08:24 [vite] changed tsconfig file detected: /home/kavia/workspace/code-generation/tictactoe-classic-46738-93404a2d/tic_tac_toe/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
-21:08:24 [content] Syncing content
-21:08:24 [content] Synced content
-21:08:24 [types] Generated 99ms
-21:08:24 [vite] Re-optimizing dependencies because vite config has changed
+21:08:49 watching for file changes...
+21:09:56 Configuration file updated. Restarting...
+21:09:56 [vite] Re-optimizing dependencies because vite config has changed
+21:09:56 [content] Syncing content
+21:09:56 [content] Synced content
+21:09:56 [types] Generated 148ms
+21:09:56 [vite] Re-optimizing dependencies because vite config has changed
+21:09:58 Configuration file removed. Restarting...
+21:09:58 [vite] Re-optimizing dependencies because vite config has changed
+21:09:58 [content] Syncing content
+21:09:58 [content] Astro config changed
+21:09:58 [content] Clearing content store
+21:09:58 [content] Synced content
+21:09:58 [types] Generated 65ms
+21:09:58 [vite] Re-optimizing dependencies because vite config has changed

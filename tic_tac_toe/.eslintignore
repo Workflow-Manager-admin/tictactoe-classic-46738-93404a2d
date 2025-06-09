@@ -1,0 +1,3 @@
+# Ignore generated Astro types and dist output
+.astro/content.d.ts
+dist/
