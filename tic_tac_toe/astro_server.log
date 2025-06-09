@@ -1,0 +1,133 @@
+
+> astro@0.0.1 dev
+> astro dev --host 0.0.0.0 --port 3000
+
+▶ Astro collects anonymous usage data.
+  This information helps us improve Astro.
+  Run "astro telemetry disable" to opt-out.
+  https://astro.build/telemetry
+
+21:06:40 [types] Generated 1ms
+21:06:40 [content] Syncing content
+21:06:40 [content] Synced content
+
+ astro  v5.4.2 ready in 221 ms
+
+┃ Local    http://localhost:3000/
+┃ Network  http://172.17.0.2:3000/
+
+21:06:40 watching for file changes...
+
+ update  ▶ New version of Astro available: 5.9.2
+  Run npx @astrojs/upgrade to update
+
+21:06:41 Configuration file updated. Restarting...
+21:06:41 [vite] Re-optimizing dependencies because vite config has changed
+21:06:41 [content] Syncing content
+21:06:41 [content] Synced content
+21:06:41 [types] Generated 72ms
+21:06:41 [vite] Re-optimizing dependencies because vite config has changed
+21:06:47 Configuration file updated. Restarting...
+21:06:47 [vite] Re-optimizing dependencies because vite config has changed
+21:06:47 [content] Syncing content
+21:06:47 [content] Synced content
+21:06:47 [types] Generated 74ms
+21:06:47 [vite] Re-optimizing dependencies because vite config has changed
+21:06:53 Configuration file updated. Restarting...
+21:06:53 [vite] Re-optimizing dependencies because vite config has changed
+21:06:53 [content] Syncing content
+21:06:53 [content] Synced content
+21:06:53 [types] Generated 85ms
+21:06:53 [vite] Re-optimizing dependencies because vite config has changed
+21:06:59 Configuration file updated. Restarting...
+21:06:59 [vite] Re-optimizing dependencies because vite config has changed
+21:06:59 [content] Syncing content
+21:06:59 [content] Synced content
+21:06:59 [types] Generated 81ms
+21:06:59 [vite] Re-optimizing dependencies because vite config has changed
+21:07:06 Configuration file updated. Restarting...
+21:07:06 [vite] Re-optimizing dependencies because vite config has changed
+21:07:06 [content] Syncing content
+21:07:06 [content] Synced content
+21:07:06 [types] Generated 65ms
+21:07:06 [vite] Re-optimizing dependencies because vite config has changed
+21:07:06 [ERROR] [vite] Error: The following dependencies are imported but could not be resolved:
+
+  react (imported by /home/kavia/workspace/code-generation/tictactoe-classic-46738-93404a2d/tic_tac_toe/src/components/MainContainer.jsx)
+
+Are they installed?
+    at file:///home/kavia/workspace/code-generation/tictactoe-classic-46738-93404a2d/tic_tac_toe/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:14849:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///home/kavia/workspace/code-generation/tictactoe-classic-46738-93404a2d/tic_tac_toe/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:46985:28
+21:07:12 Configuration file updated. Restarting...
+21:07:12 [vite] Re-optimizing dependencies because vite config has changed
+21:07:12 [content] Syncing content
+21:07:12 [content] Synced content
+21:07:12 [types] Generated 63ms
+21:07:12 [vite] Re-optimizing dependencies because vite config has changed
+21:07:12 Configuration file updated. Restarting...
+21:07:12 [ERROR] [vite] Error: The following dependencies are imported but could not be resolved:
+
+  react (imported by /home/kavia/workspace/code-generation/tictactoe-classic-46738-93404a2d/tic_tac_toe/src/components/MainContainer.jsx)
+
+Are they installed?
+    at file:///home/kavia/workspace/code-generation/tictactoe-classic-46738-93404a2d/tic_tac_toe/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:14849:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///home/kavia/workspace/code-generation/tictactoe-classic-46738-93404a2d/tic_tac_toe/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:46985:28
+21:07:12 [content] Syncing content
+21:07:12 [content] Synced content
+21:07:12 [types] Generated 78ms
+21:07:12 [vite] Re-optimizing dependencies because vite config has changed
+21:07:12 [ERROR] [vite] Error: The following dependencies are imported but could not be resolved:
+
+  react (imported by /home/kavia/workspace/code-generation/tictactoe-classic-46738-93404a2d/tic_tac_toe/src/components/MainContainer.jsx)
+
+Are they installed?
+    at file:///home/kavia/workspace/code-generation/tictactoe-classic-46738-93404a2d/tic_tac_toe/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:14849:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///home/kavia/workspace/code-generation/tictactoe-classic-46738-93404a2d/tic_tac_toe/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:46985:28
+21:07:18 Configuration file updated. Restarting...
+21:07:18 [vite] Re-optimizing dependencies because vite config has changed
+21:07:18 [content] Syncing content
+21:07:18 [content] Synced content
+21:07:18 [types] Generated 80ms
+21:07:18 [vite] Re-optimizing dependencies because vite config has changed
+21:07:18 [ERROR] [vite] Error: The following dependencies are imported but could not be resolved:
+
+  react (imported by /home/kavia/workspace/code-generation/tictactoe-classic-46738-93404a2d/tic_tac_toe/src/components/MainContainer.jsx)
+
+Are they installed?
+    at file:///home/kavia/workspace/code-generation/tictactoe-classic-46738-93404a2d/tic_tac_toe/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:14849:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///home/kavia/workspace/code-generation/tictactoe-classic-46738-93404a2d/tic_tac_toe/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:46985:28
+21:07:24 Configuration file updated. Restarting...
+21:07:24 [vite] Re-optimizing dependencies because lockfile has changed
+21:07:24 [content] Syncing content
+21:07:24 [content] Synced content
+21:07:24 [types] Generated 72ms
+21:07:24 [vite] Re-optimizing dependencies because vite config has changed
+21:07:24 Configuration file updated. Restarting...
+21:07:24 [vite] Re-optimizing dependencies because vite config has changed
+21:07:24 [content] Syncing content
+21:07:24 [content] Synced content
+21:07:24 [types] Generated 76ms
+21:07:24 [vite] Re-optimizing dependencies because vite config has changed
+21:07:30 Configuration file updated. Restarting...
+21:07:30 [vite] Re-optimizing dependencies because vite config has changed
+21:07:31 [content] Syncing content
+21:07:31 [content] Synced content
+21:07:31 [types] Generated 62ms
+21:07:31 [vite] Re-optimizing dependencies because vite config has changed
+21:07:31 Configuration file updated. Restarting...
+✘ [ERROR] The build was canceled
+
+21:07:31 [content] Syncing content
+21:07:31 [content] Synced content
+21:07:31 [types] Generated 90ms
+21:07:31 [vite] Re-optimizing dependencies because vite config has changed
+21:07:37 Configuration file updated. Restarting...
+21:07:37 [vite] Re-optimizing dependencies because vite config has changed
+21:07:37 [content] Syncing content
+21:07:37 [content] Synced content
+21:07:37 [types] Generated 78ms
+21:07:37 [vite] Re-optimizing dependencies because vite config has changed
